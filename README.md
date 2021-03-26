@@ -4,7 +4,8 @@ Creating the interface for a quiz using flutter.
 
 ## Project Pages
 
-
+ - Home screen to add the participant's name,
+ - Question screen with time to answer,
 
 ## Author
 
